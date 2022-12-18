@@ -1,2 +1,2 @@
-<div class="tenor-gif-embed" data-postid="23534844" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/car-anime-gif-23534844">Car Anime GIF</a>from <a href="https://tenor.com/search/car-gifs">Car GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+**Best Rides**
 Simple Website made with HTML, CSS and Bootstrap that shows cars and some information about the cars and the price
