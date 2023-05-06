@@ -7,3 +7,8 @@ Simple Website made with HTML, CSS and Bootstrap.
 Best Rides shows you the best cars and some information about the cars.
 
 If you want to buy the car, it also shows the price of the cars.
+
+
+Installation Setup:
+
+git clone https://github.com/ShivgunGaming/bestrides.github.io.git
