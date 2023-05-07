@@ -10,5 +10,6 @@ If you want to buy the car, it also shows the price of the cars.
 
 
 Installation Setup:
-
+```
 git clone https://github.com/ShivgunGaming/bestrides.github.io.git
+```
